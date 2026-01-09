@@ -1,4 +1,4 @@
-# Simple Python Chatbot - CodeAlpha Project
+# A)Simple Python Chatbot - CodeAlpha Project
 
 A friendly rule-based chatbot built with Python that can engage in simple conversations, provide emotional support, tell jokes, and share motivational quotes.
 
